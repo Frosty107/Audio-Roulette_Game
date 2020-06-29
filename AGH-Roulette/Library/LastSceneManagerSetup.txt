@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/Dev Scenes/GameScene_Main.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Dev Scenes/Roulette_Wheel.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Dev Scenes/GameScene_Menu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
